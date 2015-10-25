@@ -19,7 +19,6 @@ configure
 install-sh
 .deps/
 .libs
-lib/includes/wslay/wslayver.h
 lib/libwslay.pc
 ltmain.sh
 stamp-h1
